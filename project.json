@@ -1,0 +1,24 @@
+{
+  "overview": "AssignFlow is a service-delivery marketplace for college students with order management, payment verification, writer applications, and admin dashboards.",
+  "features": [
+    "Writer approval workflow with auto-admin account creation",
+    "Customer login deduplication with session persistence",
+    "DBA paper charge configuration per service type",
+    "Delivered order revenue tracking in analytics",
+    "Order chat with role-based visibility",
+    "Resume upload for writer applications",
+    "Role-based delete options for orders and chats",
+    "Smart order cleanup system",
+    "Real-time dashboard synchronization",
+    "Tracking order ID generation"
+  ],
+  "category": "productivity",
+  "tags": [
+    "order-management",
+    "college-marketplace",
+    "admin-dashboard",
+    "payment-tracking",
+    "writer-applications"
+  ],
+  "last_updated": "2026-06-05T07:43:36.281Z"
+}
